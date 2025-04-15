@@ -6,11 +6,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: " cobalt is an example project",
     description: "cobalt is an element",
-    images : {
-      url: "/og-card.png",
-      width: 1200,
-      height: 628,
-    }
+   
   },
 };
 
